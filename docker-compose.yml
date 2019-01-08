@@ -1,0 +1,17 @@
+version: "2"
+services:
+  deluge:
+    image: linuxserver/deluge:arm64v8-latest
+    container_name: deluge_compose
+    network_mode: host
+    environment:
+      - PUID=1000
+      - PGID=998
+      - UMASK_SET=022
+      - TZ=America/Chicago
+    volumes:
+      - "./config:/config"
+      - "./scripts:/scripts"  
+      - /torrents:/downloads
+    mem_limit: 4096m
+    restart: unless-stopped

@@ -1,0 +1,29 @@
+[INFO    ] 07:36:41 configmanager:70 Setting config directory to: /config
+[INFO    ] 07:36:44 daemon:127 Deluge daemon 1.3.15
+[INFO    ] 07:36:44 configmanager:70 Setting config directory to: /config
+[INFO    ] 07:36:44 core:87 Starting libtorrent 1.1.5.0 session..
+[INFO    ] 07:36:44 rpcserver:369 Starting DelugeRPC server :58846
+[WARNING ] 07:36:45 preferencesmanager:528 GeoIP Unavailable
+[INFO    ] 07:36:45 pluginmanagerbase:158 Plugin Extractor enabled..
+[INFO    ] 07:36:45 pluginmanagerbase:158 Plugin Execute enabled..
+[INFO    ] 07:36:45 torrentmanager:651 Successfully loaded state file: /config/state/torrents.state
+[INFO    ] 07:36:45 torrentmanager:780 Successfully loaded fastresume file: /config/state/torrents.fastresume
+[INFO    ] 07:37:01 rpcserver:206 Deluge Client connection made from: 127.0.0.1:49564
+[INFO    ] 07:37:01 rpcserver:206 Deluge Client connection made from: 127.0.0.1:49566
+[INFO    ] 07:37:01 rpcserver:226 Deluge client disconnected: Connection to the other side was lost in a non-clean fashion: Connection lost.
+[INFO    ] 07:37:01 rpcserver:226 Deluge client disconnected: Connection to the other side was lost in a non-clean fashion: Connection lost.
+[INFO    ] 07:37:03 rpcserver:206 Deluge Client connection made from: 127.0.0.1:49570
+[INFO    ] 07:37:03 rpcserver:226 Deluge client disconnected: Connection to the other side was lost in a non-clean fashion: Connection lost.
+[INFO    ] 07:37:05 rpcserver:206 Deluge Client connection made from: 127.0.0.1:49572
+[INFO    ] 07:37:05 rpcserver:226 Deluge client disconnected: Connection to the other side was lost in a non-clean fashion: Connection lost.
+[INFO    ] 07:37:05 rpcserver:206 Deluge Client connection made from: 127.0.0.1:49574
+[INFO    ] 07:40:05 torrentmanager:737 Saving the state at: /config/state/torrents.state
+[INFO    ] 07:43:25 torrentmanager:737 Saving the state at: /config/state/torrents.state
+[INFO    ] 07:46:45 torrentmanager:737 Saving the state at: /config/state/torrents.state
+[INFO    ] 07:50:05 torrentmanager:737 Saving the state at: /config/state/torrents.state
+[INFO    ] 07:53:25 torrentmanager:737 Saving the state at: /config/state/torrents.state
+[INFO    ] 07:56:45 torrentmanager:737 Saving the state at: /config/state/torrents.state
+[INFO    ] 08:00:05 torrentmanager:737 Saving the state at: /config/state/torrents.state
+[INFO    ] 08:03:25 torrentmanager:737 Saving the state at: /config/state/torrents.state
+[INFO    ] 08:06:45 torrentmanager:737 Saving the state at: /config/state/torrents.state
+[INFO    ] 08:10:05 torrentmanager:737 Saving the state at: /config/state/torrents.state
